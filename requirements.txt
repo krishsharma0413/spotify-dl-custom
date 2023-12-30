@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+sentry_sdk~=1.16
+yt-dlp>=2023.3.4
+spotipy~=2.21
+mutagen~=1.45
+rich~=12.0
+urllib3~=1.26
+=======
+sentry_sdk~=1.16
+yt-dlp>=2023.3.4
+spotipy~=2.21
+mutagen~=1.45
+rich~=12.0
+urllib3~=1.26
+>>>>>>> a8a3fcc59cc9d649ab10b3049231b580aebd9833
+python-dotenv
