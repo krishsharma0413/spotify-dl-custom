@@ -1,5 +1,7 @@
 ## spotify_dl
 
+*created for personal useage*
+
 Downloads songs from any Spotify playlist, album or track.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -48,22 +50,7 @@ See [the getting started guide](https://github.com/SathyaBhat/spotify-dl/blob/ma
 
 [![asciicast](https://asciinema.org/a/488558.svg)](https://asciinema.org/a/488558)
 
-### Contributing and Local development
-
-Pull requests and any contributions are always welcome. Please open an issue with your proposal before you start with something.
-
-#### Running tests
-
-Tests are setup and run with pytest, run
-
-    make tests
-
-to run the tests with [Make](https://www.gnu.org/software/make/)
 
 ### Thanks and Credits
 
 Take a look at [CONTRIBUTORS](https://github.com/SathyaBhat/spotify-dl/graphs/contributors) for a list of all people who have helped and contributed to the project.
-
-### Issues, Feedback, Contact details
-
-Feel free to raise any bugs/issues under Github issues. Pull requests are also more than welcome.
